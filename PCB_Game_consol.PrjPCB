@@ -849,7 +849,7 @@ Type61=1
 Type62=1
 
 [Electrical Rules Check]
-Type1=1
+Type1=0
 Type2=1
 Type3=2
 Type4=1
