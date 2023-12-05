@@ -1,2 +1,2 @@
-# GameConsole-
-Game console project on STM32
+# GameConsole
+Game console project on STM32F4
