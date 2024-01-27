@@ -1,4 +1,4 @@
-# GameConsole
+# GameConsole v2
 Game console Altium project on STM32F411RE. Project under development
 
 ## PCB
